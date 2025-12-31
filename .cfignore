@@ -1,0 +1,26 @@
+# Node modules (never upload)
+node_modules/
+
+# Local caches and build leftovers
+.next/cache/
+.cache/
+dist/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Optional: local editor or OS files
+.DS_Store
+Thumbs.db
+
+# Exclude Next.js static cache, but keep production files
+.next/static/chunks/pages/**/*.js
+.next/static/chunks/**/*.js
+
+# Exclude webpack pack files that may be too large
+.next/static/chunks/0.pack
+.next/static/chunks/**/*.pack
