@@ -242,7 +242,7 @@ export default function CourseSlider1() {
                 <div className="col">
                     <div className="courses__item-two shine__animate-item">
                         <div className="courses__item-two-thumb">
-                            <Link href="/Contact" className="shine__animate-link">
+                            <Link href="/contact" className="shine__animate-link">
                                 <img src="/assets/img/courses/course_thumb08.jpg" alt="img" />
                             </Link>
                             <div className="author">
