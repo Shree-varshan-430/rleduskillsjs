@@ -250,8 +250,8 @@ export default function CourseSlider1() {
                             </div>
                         </div>
                         <div className="courses__item-two-content">
-                            <Link href="/Contact" className="courses__item-tag" style={{ backgroundColor: '#DEF3FF', color: '#0496E9' }}>Technology</Link>
-                            <h5 className="title"><Link href="/Contact">Trendy Course (AIML/Data Science)</Link></h5>
+                            <Link href="/Technicalprogram" className="courses__item-tag" style={{ backgroundColor: '#DEF3FF', color: '#0496E9' }}>Technology</Link>
+                            <h5 className="title"><Link href="/Technicalprogram">Trendy Course (AIML/Data Science)</Link></h5>
                             <ul className="courses__item-meta list-wrap">
                                 <li><i className="flaticon-file" /> 16</li>
                                 <li><i className="flaticon-timer" /> 12h 00m</li>
