@@ -131,7 +131,7 @@ export default function CourseSlider1() {
                 <div className="col">
                     <div className="courses__item-two shine__animate-item">
                         <div className="courses__item-two-thumb">
-                            <Link href="/Internshipdetails" className="shine__animate-link">
+                            <Link href="/Internship-details" className="shine__animate-link">
                                 <img src="/assets/img/courses/course_thumb03.jpg" alt="img" />
                             </Link>
                             <div className="author">
@@ -139,8 +139,8 @@ export default function CourseSlider1() {
                             </div>
                         </div>
                         <div className="courses__item-two-content">
-                            <Link href="/Internshipdetails" className="courses__item-tag" style={{ backgroundColor: '#FFF0F9', color: '#FF109F' }}>Internship</Link>
-                            <h5 className="title"><Link href="/Internshipdetails">Internship Computer Science</Link></h5>
+                            <Link href="/Internship-details" className="courses__item-tag" style={{ backgroundColor: '#FFF0F9', color: '#FF109F' }}>Internship</Link>
+                            <h5 className="title"><Link href="/Internship-details">Internship Computer Science</Link></h5>
                             <ul className="courses__item-meta list-wrap">
                                 <li><i className="flaticon-file" /> 12</li>
                                 <li><i className="flaticon-timer" /> 2 Mon</li>
