@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Internships and Career Development",
+        "category": "Development",
+        "instructor": "Kiran Molly",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "Technical College Workshop",
+        "category": "Workshop",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "Value Added Technical Education",
+        "category": "Technical",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "CSR Program for College Students",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb10.jpg",
+        "courseTitle": "Placements Preparation Course",
+        "category": "Placement",
+        "instructor": "Foley Patrik",
+        "price": "free",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 6,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Become a Master Trainer",
+        "category": "English",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 7,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "Attend The Internship Program 2026",
+        "category": "Development",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 8,
+        "logo": "course_thumb08.jpg",
+        "courseTitle": "College Online workshop for Beginners",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    }
+    
+]

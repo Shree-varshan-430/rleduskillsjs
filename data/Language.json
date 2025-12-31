@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "German Language for Beginners",
+        "category": "Language",
+        "instructor": "Kiran Molly",
+        "price": "premium",
+        "language": "Native, German",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "Spanish Language Proficiency",
+        "category": "Language",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "Native, Spanish",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "French Language Essentials",
+        "category": "Language",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "Native, French",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Chinese Language for Beginners",
+        "category": "Language",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "Native, Chinese",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb05.jpg",
+        "courseTitle": "English Language Mastery",
+        "category": "Language",
+        "instructor": "Foley Patrik",
+        "price": "free",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    }
+    
+    
+]

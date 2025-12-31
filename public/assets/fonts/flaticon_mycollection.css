@@ -1,0 +1,112 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.woff2?49419b9309d8cf5872d879a55374463b") format("woff2"),
+url("./flaticon_mycollection.woff?49419b9309d8cf5872d879a55374463b") format("woff"),
+url("./flaticon_mycollection.eot?49419b9309d8cf5872d879a55374463b#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?49419b9309d8cf5872d879a55374463b") format("truetype"),
+url("./flaticon_mycollection.svg?49419b9309d8cf5872d879a55374463b#flaticon_mycollection") format("svg")
+}
+
+i[class^="mycollection-"]:before, i[class*=" mycollection-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.mycollection-wheat:before {
+    content: "\f101";
+}
+.mycollection-improve:before {
+    content: "\f102";
+}
+.mycollection-communication:before {
+    content: "\f103";
+}
+.mycollection-improve-1:before {
+    content: "\f104";
+}
+.mycollection-technical-support:before {
+    content: "\f105";
+}
+.mycollection-technical-support-1:before {
+    content: "\f106";
+}
+.mycollection-maintenance:before {
+    content: "\f107";
+}
+.mycollection-it-service:before {
+    content: "\f108";
+}
+.mycollection-mortarboard:before {
+    content: "\f109";
+}
+.mycollection-graduation-hat-and-diploma:before {
+    content: "\f10a";
+}
+.mycollection-mortarboard-1:before {
+    content: "\f10b";
+}
+.mycollection-graduation:before {
+    content: "\f10c";
+}
+.mycollection-school-1:before {
+    content: "\f10d";
+}
+.mycollection-school-2:before {
+    content: "\f10e";
+}
+.mycollection-countries:before {
+    content: "\f10f";
+}
+.mycollection-coronavirus:before {
+    content: "\f110";
+}
+.mycollection-country:before {
+    content: "\f111";
+}
+.mycollection-earth-location:before {
+    content: "\f112";
+}
+
+.mycollection-corporate:before {
+    content: "\f114";
+}
+.mycollection-team:before {
+    content: "\f115";
+}
+.mycollection-corporation:before {
+    content: "\f116";
+}
+.mycollection-development:before {
+    content: "\f117";
+}
+.mycollection-company:before {
+    content: "\f118";
+}
+.mycollection-meeting:before {
+    content: "\f119";
+}
+
+.mycollection-presentation:before {
+    content: "\f11a";
+}
+.mycollection-corporate-identity:before {
+    content: "\f11b";
+}
+

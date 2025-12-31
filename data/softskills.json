@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Professional Soft Skills for Workplace Success",
+        "category": "Soft Skills",
+        "instructor": "Kiran Molly",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "Leadership & People Management Skills",
+        "category": "Soft Skills",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "Personal Productivity & Resilience Skills",
+        "category": "Soft Skills",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Modern Workplace Skills for Professionals",
+        "category": "Soft Skills",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb05.jpg",
+        "courseTitle": "Career-Advancement & Personal Brand Skills",
+        "category": "Soft Skills",
+        "instructor": "Foley Patrik",
+        "price": "free",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 6,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Emotional Intelligence (EQ) for Workplace Success",
+        "category": "Soft Skills",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 7,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "Financial & Life Skills for Modern Professionals",
+        "category": "Soft Skills",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    }
+    
+]

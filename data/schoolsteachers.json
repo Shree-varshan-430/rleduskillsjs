@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "AI for Educators",
+        "category": "AI",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "NLP for Teachers",
+        "category": "NLP",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "Gamification in Education",
+        "category": "Developement",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Differentiated Instruction Strategies",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb10.jpg",
+        "courseTitle": "Cambridge Based English Course",
+        "category": "English",
+        
+        "price": "free",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 6,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Inclusive & Special Education Training",
+        "category": "Developement",
+       
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 7,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "Soracatic Method for Critical Thinking",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 8,
+        "logo": "course_thumb08.jpg",
+        "courseTitle": "Design thinking for Educators",
+        "category": "Development",
+        
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 9,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Cyber Awareness for Teachers",
+        "category": "Development",
+        
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 10,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Flipped Classroom Techniques",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 11,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Adapating to Green Tech in Education",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    }
+    
+    
+]

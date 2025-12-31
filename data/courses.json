@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Soft Skills Program",
+        "category": "Soft Skills",
+        "instructor": "Kiran Molly",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "Technical Program for Beginners",
+        "category": "Business",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "Internship For College Students",
+        "category": "Technical",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Language Course for Beginners",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb05.jpg",
+        "courseTitle": "Trendy Tools for Graphic Design",
+        "category": "Graphic Design",
+        "instructor": "Foley Patrik",
+        "price": "free",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 6,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Become a Master Trainer",
+        "category": "English",
+        "instructor": "Jackson Alive",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 7,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "College Programs",
+        "category": "Development",
+        "instructor": "Oawe Alve",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 8,
+        "logo": "course_thumb08.jpg",
+        "courseTitle": "School Students Program",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 9,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "School Teachers Program",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 10,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "College Workshops Program",
+        "category": "Development",
+        "instructor": "Liakon Rivey",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    }
+    
+]

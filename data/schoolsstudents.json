@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Communication English Trainer",
+        "category": "English",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 2,
+        "logo": "course_thumb02.jpg",
+        "courseTitle": "IELTS Coaching Program",
+        "category": "English",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 3,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "German Language Workshop",
+        "category": "Language",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 4,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "AI for Young Learners",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 5,
+        "logo": "course_thumb10.jpg",
+        "courseTitle": "Cambridge Based English Course",
+        "category": "English",
+        
+        "price": "free",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 6,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "NLP for School Students",
+        "category": "Developement",
+       
+        "price": "premium",
+        "language": "English",
+        "difficulty": "intermediate",
+        "rating": "intermediate"
+    },
+    {
+        "id": 7,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "Robotics Workshop for Kids",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "expert",
+        "rating": "expert"
+    },
+    {
+        "id": 8,
+        "logo": "course_thumb08.jpg",
+        "courseTitle": "Design thinking for Young Minds",
+        "category": "Development",
+        
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 9,
+        "logo": "course_thumb04.jpg",
+        "courseTitle": "Cyber Safety for Students",
+        "category": "Development",
+        
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 10,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Finance Management for Teens",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 11,
+        "logo": "course_thumb01.jpg",
+        "courseTitle": "Green Tech and Sustainability",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 12,
+        "logo": "course_thumb07.jpg",
+        "courseTitle": "Mindfulness and Stress Relief for Students",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 13,
+        "logo": "course_thumb06.jpg",
+        "courseTitle": "Emotional Intelligence for Young Minds",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    },
+    {
+        "id": 14,
+        "logo": "course_thumb03.jpg",
+        "courseTitle": "Creative Arts and Expression",
+        "category": "Development",
+        "price": "premium",
+        "language": "English",
+        "difficulty": "beginner",
+        "rating": "beginner"
+    }
+    
+]

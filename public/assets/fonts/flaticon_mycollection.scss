@@ -1,0 +1,133 @@
+$flaticon_mycollection-font: "flaticon_mycollection";
+
+@font-face {
+    font-family: $flaticon_mycollection-font;
+    src: url("./flaticon_mycollection.woff2?49419b9309d8cf5872d879a55374463b") format("woff2"),
+url("./flaticon_mycollection.woff?49419b9309d8cf5872d879a55374463b") format("woff"),
+url("./flaticon_mycollection.eot?49419b9309d8cf5872d879a55374463b#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?49419b9309d8cf5872d879a55374463b") format("truetype"),
+url("./flaticon_mycollection.svg?49419b9309d8cf5872d879a55374463b#flaticon_mycollection") format("svg");
+}
+
+i[class^="mycollection-"]:before, i[class*=" mycollection-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_mycollection-map: (
+    "wheat": "\f101",
+    "improve": "\f102",
+    "communication": "\f103",
+    "improve-1": "\f104",
+    "technical-support": "\f105",
+    "technical-support-1": "\f106",
+    "maintenance": "\f107",
+    "it-service": "\f108",
+    "mortarboard": "\f109",
+    "graduation-hat-and-diploma": "\f10a",
+    "mortarboard-1": "\f10b",
+    "graduation": "\f10c",
+    "school-1": "\f10d",
+    "school-2": "\f10e",
+    "countries": "\f10f",
+    "coronavirus": "\f110",
+    "country": "\f111",
+    "earth-location": "\f112",
+    "location-pin": "\f113",
+    "corporate": "\f114",
+    "team": "\f115",
+    "corporation": "\f116",
+    "development": "\f117",
+    "company": "\f118",
+    "meeting": "\f119",
+    "presentation": "\f11a",
+    "corporate-identity": "\f11b",
+);
+
+.mycollection-wheat:before {
+    content: map-get($flaticon_mycollection-map, "wheat");
+}
+.mycollection-improve:before {
+    content: map-get($flaticon_mycollection-map, "improve");
+}
+.mycollection-communication:before {
+    content: map-get($flaticon_mycollection-map, "communication");
+}
+.mycollection-improve-1:before {
+    content: map-get($flaticon_mycollection-map, "improve-1");
+}
+.mycollection-technical-support:before {
+    content: map-get($flaticon_mycollection-map, "technical-support");
+}
+.mycollection-technical-support-1:before {
+    content: map-get($flaticon_mycollection-map, "technical-support-1");
+}
+.mycollection-maintenance:before {
+    content: map-get($flaticon_mycollection-map, "maintenance");
+}
+.mycollection-it-service:before {
+    content: map-get($flaticon_mycollection-map, "it-service");
+}
+.mycollection-mortarboard:before {
+    content: map-get($flaticon_mycollection-map, "mortarboard");
+}
+.mycollection-graduation-hat-and-diploma:before {
+    content: map-get($flaticon_mycollection-map, "graduation-hat-and-diploma");
+}
+.mycollection-mortarboard-1:before {
+    content: map-get($flaticon_mycollection-map, "mortarboard-1");
+}
+.mycollection-graduation:before {
+    content: map-get($flaticon_mycollection-map, "graduation");
+}
+.mycollection-school-1:before {
+    content: map-get($flaticon_mycollection-map, "school-1");
+}
+.mycollection-school-2:before {
+    content: map-get($flaticon_mycollection-map, "school-2");
+}
+.mycollection-countries:before {
+    content: map-get($flaticon_mycollection-map, "countries");
+}
+.mycollection-coronavirus:before {
+    content: map-get($flaticon_mycollection-map, "coronavirus");
+}
+.mycollection-country:before {
+    content: map-get($flaticon_mycollection-map, "country");
+}
+.mycollection-earth-location:before {
+    content: map-get($flaticon_mycollection-map, "earth-location");
+}
+.mycollection-location-pin:before {
+    content: map-get($flaticon_mycollection-map, "location-pin");
+}
+.mycollection-corporate:before {
+    content: map-get($flaticon_mycollection-map, "corporate");
+}
+.mycollection-team:before {
+    content: map-get($flaticon_mycollection-map, "team");
+}
+.mycollection-corporation:before {
+    content: map-get($flaticon_mycollection-map, "corporation");
+}
+.mycollection-development:before {
+    content: map-get($flaticon_mycollection-map, "development");
+}
+.mycollection-company:before {
+    content: map-get($flaticon_mycollection-map, "company");
+}
+.mycollection-meeting:before {
+    content: map-get($flaticon_mycollection-map, "meeting");
+}
+.mycollection-presentation:before {
+    content: map-get($flaticon_mycollection-map, "presentation");
+}
+.mycollection-corporate-identity:before {
+    content: map-get($flaticon_mycollection-map, "corporate-identity");
+}
