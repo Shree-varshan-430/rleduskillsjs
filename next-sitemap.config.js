@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: "https://rleduskillsjs.vercel.app",
+  siteUrl: "https://rleduskills.com",
   generateRobotsTxt: true,
   changefreq: "weekly",
   priority: 0.7,
