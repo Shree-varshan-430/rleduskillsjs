@@ -13,7 +13,7 @@ export default function Cta2() {
                                 <h2 className="title">Communicative English Trainer</h2>
                                 <h5 className="sub-title">For Schools</h5>
                                 <div className="tg-button-wrap justify-content-center">
-                                    <Link href="/contact" className="btn tg-svg"><span className="text">Become a Trainer</span>
+                                    <Link href="https://forms.gle/pbVXm9BY3d5mGwJ17" className="btn tg-svg"><span className="text">Become a Trainer</span>
                                         <span className="svg-icon" id="cta-btn-2" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
                                 </div>
                             </div>
