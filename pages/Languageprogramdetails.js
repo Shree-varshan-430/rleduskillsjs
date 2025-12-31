@@ -41,7 +41,7 @@ export default function CounseDetails() {
                                         <li>
                                             <div className="author">
                                                 <Link href="#"><img src="/assets/img/courses/course_author02.png" alt="img" /></Link>
-                                                <Link href="#">Arian Hok</Link>
+                                                {/* <Link href="#">Arian Hok</Link> */}
                                             </div>
                                         </li>
                                         <li><i className="flaticon-file" /> 19</li>
@@ -71,7 +71,7 @@ export default function CounseDetails() {
                                     <div className="courses__details-inner">
                                         <h3 className="title">Our Foreign Languages Programs</h3>
 
-                                        <p>Our Foreign Languages Programs offer comprehensive instruction in a variety of languages, <strong>including Spanish, French, German, Chinease, Japanese, and Mandarin</strong>. These programs are designed to help learners develop fluency in <strong>speaking, reading, writing, and listening skills </strong> through interactive lessons and immersive experiences.</p>
+                                        <p>Our Foreign Languages Programs offer comprehensive instruction in a variety of languages, <strong>including Spanish, French, German, Chinese, Japanese, and Mandarin</strong>. These programs are designed to help learners develop fluency in <strong>speaking, reading, writing, and listening skills </strong> through interactive lessons and immersive experiences.</p>
                                        
 
                                     </div>
