@@ -283,7 +283,7 @@ export default function CounseDetails() {
                                                     </div>
                                                 </div>
                                             </div> */}
-                                            <div className="courses__details-instructors">
+                                            {/* <div className="courses__details-instructors">
                                                 <h4 className="title">Your Instructors</h4>
                                                 <div className="courses__instructors-list">
                                                     <div className="courses__instructors-item">
@@ -341,7 +341,7 @@ export default function CounseDetails() {
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> */}
                                         </div>
                                         <div className={activeIndex === 2 ? "tab-pane active" : "tab-pane"}>
                                             <div className="courses__details-reviews">
