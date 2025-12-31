@@ -17,7 +17,7 @@ export default function Categories2() {
                         </div>
                         <div className="col-xl-5 col-lg-4 col-md-6">
                             <div className="tg-button-wrap mt-4 mt-lg-0 justify-content-center justify-content-lg-end">
-                                <Link href="/courses" className="btn btn-border tg-svg"><span className="text">All
+                                <Link href="#" className="btn btn-border tg-svg"><span className="text">All
                                     Categories</span> <span className="svg-icon" id="svg-6" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
                             </div>
                         </div>
