@@ -16,7 +16,7 @@ export default function Custom404() {
                                     <div className="error-content">
                                         <h2 className="title">ERROR PAGE! <span>Sorry! This Page is Not Available!</span></h2>
                                         <div className="tg-button-wrap">
-                                            <Link href="/" className="btn tg-svg"><span className="text">Go To Home APge</span> <span className="svg-icon" id="error-btn" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
+                                            <Link href="/" className="btn tg-svg"><span className="text">Go To Home Page</span> <span className="svg-icon" id="error-btn" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
                                         </div>
                                     </div>
                                 </div>
