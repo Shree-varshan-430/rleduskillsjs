@@ -53,7 +53,7 @@ export default function Events() {
                                         </div>
                                         <div className="rc-post-item">
                                             <div className="rc-post-thumb">
-                                                <Link href="/blog-details">
+                                                <Link href="#">
                                                     <img src="/assets/img/blog/blog_standard04.jpg" alt="img" />
                                                 </Link>
                                             </div>
