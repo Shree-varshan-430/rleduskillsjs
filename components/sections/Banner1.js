@@ -12,7 +12,7 @@ export default function Banner1() {
                                 <img src="/assets/img/banner/bshape_02.png" alt="shape" className="shape" />
                                 <span className="sub-title" data-aos="fade-right" data-aos-delay={200}>100% Satisfaction
                                     Guarantee</span>
-                                <h1 className="title tg-svg" data-aos="fade-right" data-aos-delay={400}>Master<span className="position-relative"><span className="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/title_shape.svg" /> Technical</span>&nbsp; and Language Prowess with RL EDU SKILLS</h1>
+                                <h1 className="title tg-svg" data-aos="fade-right" data-aos-delay={400}>Master<span className="position-relative"><span className="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/title_shape.svg" /> Technical</span>&nbsp; and Language Prowess with RL Edu Skills</h1>
                                 {/* <h1 className="title tg-svg" data-aos="fade-right" data-aos-delay={400}>Building<span className="position-relative"><span className="svg-icon" id="svg-2" data-svg-icon="assets/img/icons/title_shape.svg" /> Skills</span>and  Language Programs for Every Learner</h1> */}
                                 <p data-aos="fade-right" data-aos-delay={600}>Tailored Curriculum for Students, Educators & Corporates</p>
                                 <div className="banner__btn-wrap" data-aos="fade-right" data-aos-delay={800}>
