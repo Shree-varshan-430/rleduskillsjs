@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rleduskillsjs.vercel.app
+
+# Sitemaps
+Sitemap: https://rleduskillsjs.vercel.app/sitemap.xml
