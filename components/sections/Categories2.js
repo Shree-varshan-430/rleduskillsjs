@@ -39,7 +39,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/technicalprogram">
+                                <Link href="/Technicalprogram">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg2" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="mycollection-technical-support" />
