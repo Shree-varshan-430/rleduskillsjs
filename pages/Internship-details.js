@@ -41,7 +41,7 @@ export default function CounseDetails() {
                                         <li>
                                             <div className="author">
                                                 <Link href="#"><img src="/assets/img/courses/course_author02.png" alt="img" /></Link>
-                                                <Link href="#">Arian Hok</Link>
+                                                {/* <Link href="#">Arian Hok</Link> */}
                                             </div>
                                         </li>
                                         <li><i className="flaticon-file" /> 19</li>
@@ -477,7 +477,7 @@ export default function CounseDetails() {
                                         </div>
                                         <div className="event-cost-wrap">
                                             <h4 className="price"><strong>Costs:</strong>₹4000/Mon</h4>
-                                            <Link href="#" className="btn">Enroll This Now</Link>
+                                            <Link href="https://forms.gle/k56Ps1z35fggsr998" className="btn">Enroll This Now</Link>
                                             <div className="event-information-wrap">
                                                 <h6 className="title">Include This Course</h6>
                                                 <ul className="list-wrap">
