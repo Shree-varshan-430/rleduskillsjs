@@ -41,7 +41,7 @@ export default function CounseDetails() {
                                         <li>
                                             <div className="author">
                                                 <Link href="#"><img src="/assets/img/courses/course_author02.png" alt="img" /></Link>
-                                                <Link href="#">Arian Hok</Link>
+                                                {/* <Link href="#">Arian Hok</Link> */}
                                             </div>
                                         </li>
                                         <li><i className="flaticon-file" /> 19</li>
