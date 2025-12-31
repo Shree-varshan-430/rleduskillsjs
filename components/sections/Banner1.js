@@ -17,7 +17,7 @@ export default function Banner1() {
                                 <p data-aos="fade-right" data-aos-delay={600}>Tailored Curriculum for Students, Educators & Corporates</p>
                                 <div className="banner__btn-wrap" data-aos="fade-right" data-aos-delay={800}>
                                     <div className="tg-button-wrap">
-                                        <Link href="/courses" className="btn tg-svg"><span className="text">Explore Courses</span>
+                                        <Link href="/Softskills" className="btn tg-svg"><span className="text">Explore Courses</span>
                                             <span className="svg-icon" id="svg-1" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
                                     </div>
                                     <div className="banner__phone">
