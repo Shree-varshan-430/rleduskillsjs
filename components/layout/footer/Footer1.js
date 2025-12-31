@@ -36,7 +36,7 @@ export default function Footer1() {
                                         <li><Link href="/about-us">About</Link></li>
                                         <li><Link href="/Courses">Courses</Link></li>
                                         <li><Link href="/contact">Contact</Link></li>
-                                        <li><Link href="/Career">Career</Link></li>
+                                        <li><Link href="/career">Career</Link></li>
                                         <li><Link href="#">Conditions</Link></li>
                                         <li><Link href="#">Privacy Policy</Link></li>
                                     </ul>
@@ -50,7 +50,7 @@ export default function Footer1() {
                                         <li><Link href="/Technicalprogram">Web Development</Link></li>
                                         <li><Link href="/Technicalprogram">Digital Marketing</Link></li>
                                         <li><Link href="/Technicalprogram">UI/UX Design</Link></li>
-                                        <li><Link href="/courses">Master Trainer</Link></li>
+                                        <li><Link href="/MasterTrainerprogram">Master Trainer</Link></li>
                                         <li><Link href="/Softskills">Soft Skills</Link></li>
                                         
                                     </ul>
