@@ -54,19 +54,9 @@
         "difficulty": "expert",
         "rating": "expert"
     },
+    
     {
         "id": 6,
-        "logo": "course_thumb06.jpg",
-        "courseTitle": "Become a Master Trainer",
-        "category": "English",
-        "instructor": "Jackson Alive",
-        "price": "premium",
-        "language": "English",
-        "difficulty": "intermediate",
-        "rating": "intermediate"
-    },
-    {
-        "id": 7,
         "logo": "course_thumb07.jpg",
         "courseTitle": "Attend The Internship Program 2026",
         "category": "Development",
@@ -77,7 +67,7 @@
         "rating": "expert"
     },
     {
-        "id": 8,
+        "id": 7,
         "logo": "course_thumb08.jpg",
         "courseTitle": "College Online workshop for Beginners",
         "category": "Development",
