@@ -434,7 +434,7 @@ export default function CounseDetails() {
                                                                     <i className="fas fa-star" />
                                                                 </div>
                                                                 <h5 className="user-name">Admin <span className="date">August 5, 2023</span></h5>
-                                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantiu meature areawtyt totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                                                                <p>The Internship Program is a well-structured and industry-focused initiative that truly bridges the gap between academic learning and real-world professional experience.</p>
                                                             </div>
                                                         </li>
                                                     </ul>
@@ -498,7 +498,7 @@ export default function CounseDetails() {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="blog-widget">
+                                    {/* <div className="blog-widget">
                                         <h4 className="widget-title">Related Courses</h4>
                                         <div className="rc-post-item">
                                             <div className="rc-post-thumb">
@@ -544,7 +544,7 @@ export default function CounseDetails() {
                                                 <span className="price">$11.00</span>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </aside>
                             </div>
                         </div>
