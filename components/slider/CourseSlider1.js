@@ -207,7 +207,7 @@ export default function CourseSlider1() {
                         </div>
                         <div className="courses__item-two-content">
                             <Link href="#" className="courses__item-tag" style={{ backgroundColor: '#E8F9EF', color: '#04BC53' }}>English</Link>
-                            <h5 className="title"><Link href="/course-details">Business English Course</Link></h5>
+                            <h5 className="title"><Link href="/Course-details">Business English Course</Link></h5>
                             <ul className="courses__item-meta list-wrap">
                                 <li><i className="flaticon-file" /> 09</li>
                                 <li><i className="flaticon-timer" /> 16h 30m</li>
@@ -228,8 +228,8 @@ export default function CourseSlider1() {
                             </div>
                         </div>
                         <div className="courses__item-two-content">
-                            <Link href="/course-details" className="courses__item-tag" style={{ backgroundColor: '#FFF3D3', color: '#F5B204' }}>Graphic Design</Link>
-                            <h5 className="title"><Link href="/course-details">Adobe Tools for Graphic Tools</Link></h5>
+                            <Link href="/Course-details" className="courses__item-tag" style={{ backgroundColor: '#FFF3D3', color: '#F5B204' }}>Graphic Design</Link>
+                            <h5 className="title"><Link href="/Course-details">Adobe Tools for Graphic Tools</Link></h5>
                             <ul className="courses__item-meta list-wrap">
                                 <li><i className="flaticon-file" /> 19</li>
                                 <li><i className="flaticon-timer" /> 10h 30m</li>
@@ -242,7 +242,7 @@ export default function CourseSlider1() {
                 <div className="col">
                     <div className="courses__item-two shine__animate-item">
                         <div className="courses__item-two-thumb">
-                            <Link href="/course-details" className="shine__animate-link">
+                            <Link href="/Course-details" className="shine__animate-link">
                                 <img src="/assets/img/courses/course_thumb08.jpg" alt="img" />
                             </Link>
                             <div className="author">
@@ -251,7 +251,7 @@ export default function CourseSlider1() {
                         </div>
                         <div className="courses__item-two-content">
                             <Link href="#" className="courses__item-tag" style={{ backgroundColor: '#DEF3FF', color: '#0496E9' }}>Technology</Link>
-                            <h5 className="title"><Link href="/course-details">Trendy Course (AIML/Data Science)</Link></h5>
+                            <h5 className="title"><Link href="/Course-details">Trendy Course (AIML/Data Science)</Link></h5>
                             <ul className="courses__item-meta list-wrap">
                                 <li><i className="flaticon-file" /> 16</li>
                                 <li><i className="flaticon-timer" /> 12h 00m</li>

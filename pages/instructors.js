@@ -110,7 +110,7 @@ export default function Instructors() {
                                         <div className="instructor__content">
                                             <div className="left">
                                                 <span className="designation">Web Development Trainer</span>
-                                                <h4 className="name"><Link href="#">Manikandan</Link></h4>
+                                                <h4 className="name"><Link href="#">Manikanda Prabu</Link></h4>
                                             </div>
                                             <div className="right">
                                                 <span className="share pt-10"><i className="flaticon-share" /></span>

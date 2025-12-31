@@ -25,7 +25,7 @@ export default function Categories2() {
                     <div className="row justify-content-center row-cols-1 row-cols-sm-2 row-cols-md-3">
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/Softskills">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg1" data-svg-icon="\categories_icon.svg" />
                                         <i className="flaticon-improve-1 mycollection-improve" />
@@ -39,7 +39,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/technicalprogram">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg2" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="mycollection-technical-support" />
@@ -53,7 +53,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/Languages">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg3" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="flaticon-countries" />
@@ -67,7 +67,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/Colleges">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg4" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="mycollection-graduation-hat-and-diploma" />
@@ -81,7 +81,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/SchoolStudents">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg5" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="mycollection-school-1" />
@@ -95,7 +95,7 @@ export default function Categories2() {
                         </div>
                         <div className="col">
                             <div className="categories__item-two tg-svg">
-                                <Link href="/courses">
+                                <Link href="/Technicalprogram">
                                     <div className="icon">
                                         <span className="svg-icon" id="cat_svg6" data-svg-icon="assets/img/icons/categories_icon.svg" />
                                         <i className="mycollection-corporate"/>

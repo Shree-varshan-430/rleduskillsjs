@@ -19,7 +19,7 @@ export default function Contact() {
                                                     <i className="flaticon-pin-1" />
                                                 </div>
                                                 <div className="content">
-                                                    <p>Door no:123, 2nd floor, Old Bus Stand Road,<br /> Aruppukottai. Tamilnadu-626101</p>
+                                                    <p>2nd floor, Ramsons Complex, Opp Block Office<br /> Aruppukottai. Tamilnadu-626101</p>
                                                 </div>
                                             </li>
                                             <li>

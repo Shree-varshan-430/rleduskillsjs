@@ -42,12 +42,12 @@ export default function Events() {
                                         <h4 className="widget-title">Recent Events</h4>
                                         <div className="rc-post-item">
                                             <div className="rc-post-thumb">
-                                                <Link href="/blog-details">
+                                                <Link href="#">
                                                     <img src="/assets/img/blog/blog_standard01.jpg" alt="img" />
                                                 </Link>
                                             </div>
                                             <div className="rc-post-content">
-                                                <h4 className="title"><Link href="/blog-details">NRM Dream International School</Link></h4>
+                                                <h4 className="title"><Link href="#">NRM Dream International School</Link></h4>
                                                 <span className="date"><i className="flaticon-calendar-date" />31 June</span>
                                             </div>
                                         </div>
@@ -58,29 +58,29 @@ export default function Events() {
                                                 </Link>
                                             </div>
                                             <div className="rc-post-content">
-                                                <h4 className="title"><Link href="/blog-details">St.Francis Matriculation Higher Secondary School</Link></h4>
+                                                <h4 className="title"><Link href="#">St.Francis Matriculation Higher Secondary School</Link></h4>
                                                 <span className="date"><i className="flaticon-calendar-date" /> 3 May</span>
                                             </div>
                                         </div>
                                         <div className="rc-post-item">
                                             <div className="rc-post-thumb">
-                                                <Link href="/blog-details">
+                                                <Link href="#">
                                                     <img src="/assets/img/blog/blog_standard03.jpg" alt="img" />
                                                 </Link>
                                             </div>
                                             <div className="rc-post-content">
-                                                <h4 className="title"><Link href="/blog-details">Mary Matriculational School</Link></h4>
+                                                <h4 className="title"><Link href="#">Mary Matriculational School</Link></h4>
                                                 <span className="date"><i className="flaticon-calendar-date" /> 23 April</span>
                                             </div>
                                         </div>
                                         <div className="rc-post-item">
                                             <div className="rc-post-thumb">
-                                                <Link href="/blog-details">
+                                                <Link href="#">
                                                     <img src="/assets/img/blog/blog_standard02.jpg" alt="img" />
                                                 </Link>
                                             </div>
                                             <div className="rc-post-content">
-                                                <h4 className="title"><Link href="/blog-details">kamarajar Arts and science College </Link></h4>
+                                                <h4 className="title"><Link href="#">kamarajar Arts and science College </Link></h4>
                                                 <span className="date"><i className="flaticon-calendar-date" /> 27 Nov</span>
                                             </div>
                                         </div>
@@ -92,7 +92,7 @@ export default function Events() {
                                     <div className="col-xl-4 col-md-6">
                                         <div className="events__item shine__animate-item">
                                             <div className="events__item-thumb">
-                                                <Link href="/events-details" className="shine__animate-link">
+                                                <Link href="https://forms.gle/yVukodgMLxKG89yx8" className="shine__animate-link">
                                                     <img src="/assets/img/events/event_thumb01.jpg" alt="img" />
                                                 </Link>
                                                 <span className="events__date"><i className="flaticon-calendar-date" /> 10 DEC, 2026</span>
@@ -106,7 +106,7 @@ export default function Events() {
                                     <div className="col-xl-4 col-md-6">
                                         <div className="events__item shine__animate-item">
                                             <div className="events__item-thumb">
-                                                <Link href="/events-details" className="shine__animate-link">
+                                                <Link href="https://forms.gle/yVukodgMLxKG89yx8" className="shine__animate-link">
                                                     <img src="/assets/img/events/event_thumb02.jpg" alt="img" />
                                                 </Link>
                                                 <span className="events__date"><i className="flaticon-calendar-date" /> 03 Jan, 2026</span>
@@ -120,7 +120,7 @@ export default function Events() {
                                     <div className="col-xl-4 col-md-6">
                                         <div className="events__item shine__animate-item">
                                             <div className="events__item-thumb">
-                                                <Link href="/events-details" className="shine__animate-link">
+                                                <Link href="https://forms.gle/yVukodgMLxKG89yx8" className="shine__animate-link">
                                                     <img src="/assets/img/events/event_thumb03.jpg" alt="img" />
                                                 </Link>
                                                 <span className="events__date"><i className="flaticon-calendar-date" /> 25 Dec, 2025</span>
@@ -134,7 +134,7 @@ export default function Events() {
                                     <div className="col-xl-4 col-md-6">
                                         <div className="events__item shine__animate-item">
                                             <div className="events__item-thumb">
-                                                <Link href="/events-details" className="shine__animate-link">
+                                                <Link href="https://forms.gle/yVukodgMLxKG89yx8" className="shine__animate-link">
                                                     <img src="/assets/img/events/event_thumb01.jpg" alt="img" />
                                                 </Link>
                                                 <span className="events__date"><i className="flaticon-calendar-date" /> 25 Dec, 2025</span>
