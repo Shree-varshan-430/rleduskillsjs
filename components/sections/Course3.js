@@ -17,7 +17,7 @@ export default function Course3() {
                             </div>
                             <div className="col-lg-5">
                                 <div className="tg-button-wrap mt-4 mt-lg-0 justify-content-center justify-content-lg-end">
-                                    <Link href="/courses" className="btn btn-border tg-svg"><span className="text">View All
+                                    <Link href="#" className="btn btn-border tg-svg"><span className="text">View All
                                         Courses</span> <span className="svg-icon" id="course-btn" data-svg-icon="assets/img/icons/btn-arrow.svg" /></Link>
                                 </div>
                             </div>
