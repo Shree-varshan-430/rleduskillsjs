@@ -19,13 +19,13 @@ export default function Blog2() {
                         <div className="col-lg-6">
                             <div className="blog__post-item-two shine__animate-item">
                                 <div className="blog__post-thumb-two">
-                                    <Link href="/blog-details" className="shine__animate-link">
+                                    <Link href="https://blogs.rleduskills.com/" className="shine__animate-link">
                                         <img src="/assets/img/blog/blog_thumb04.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="blog__post-content-two">
                                     <Link href="#" className="cat">Education</Link>
-                                    <h4 className="title"><Link href="https://medium.com/@shreevarshan35">Students Enhancement Program: Building Future-Ready Learners</Link></h4>
+                                    <h4 className="title"><Link href="https://blogs.rleduskills.com/">Students Enhancement Program: Building Future-Ready Learners</Link></h4>
                                     <ul className="list-wrap blog__post-meta">
                                         <li><i className="flaticon-account" /> by <Link href="#">Admin</Link></li>
                                         <li><i className="flaticon-calendar-date" /> 23 Aug, 2023</li>
@@ -36,13 +36,13 @@ export default function Blog2() {
                         <div className="col-lg-6">
                             <div className="blog__post-item-three shine__animate-item">
                                 <div className="blog__post-thumb-three">
-                                    <Link href="/blog-details" className="shine__animate-link">
+                                    <Link href="https://medium.com/@shreevarshan35" className="shine__animate-link">
                                         <img src="/assets/img/blog/blog_thumb05.jpg" alt="img" />
                                     </Link>
                                 </div>
                                 <div className="blog__post-content-three">
                                     <Link href="#" className="cat">Course</Link>
-                                    <h4 className="title"><Link href="https://blogs.rleduskills.com/">Choosing the right Programming Language</Link></h4>
+                                    <h4 className="title"><Link href="https://medium.com/@shreevarshan35">Choosing the right Programming Language</Link></h4>
                                     <ul className="list-wrap blog__post-meta">
                                         <li><i className="flaticon-account" /> by <Link href="#">Admin</Link></li>
                                         <li><i className="flaticon-calendar-date" /> 23 Aug, 2023</li>
@@ -51,7 +51,7 @@ export default function Blog2() {
                             </div>
                             <div className="blog__post-item-three shine__animate-item">
                                 <div className="blog__post-thumb-three">
-                                    <Link href="/blog-details" className="shine__animate-link">
+                                    <Link href="https://why-learning-digital-and-soft-skills.hashnode.dev/" className="shine__animate-link">
                                         <img src="/assets/img/blog/blog_thumb06.jpg" alt="img" />
                                     </Link>
                                 </div>
