@@ -484,7 +484,7 @@ export default function CounseDetails() {
                                         </div>
                                         <div className="event-cost-wrap">
                                             <h4 className="price"><strong>Costs:</strong>₹40000+GST</h4>
-                                            <Link href="https://forms.gle/k56Ps1z35fggsr998" className="btn">Enroll This Now</Link>
+                                            <Link href="https://forms.gle/pbVXm9BY3d5mGwJ17" className="btn">Enroll This Now</Link>
                                             <div className="event-information-wrap">
                                                 <h6 className="title">Include This Course</h6>
                                                 <ul className="list-wrap">
