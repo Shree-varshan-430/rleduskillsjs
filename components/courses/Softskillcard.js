@@ -13,7 +13,7 @@ const CourseCard = ({ item }) => {
                     </div>
                 </div>
                 <div className="courses__item-two-content">
-                    <Link href="/Course-details" className="courses__item-tag" style={{ backgroundColor: '#E8F9EF', color: '#04BC53' }}>Soft Skills</Link>
+                    <Link href="/Softskilldetails" className="courses__item-tag" style={{ backgroundColor: '#E8F9EF', color: '#04BC53' }}>Soft Skills</Link>
                     <h5 className="title">
                         <Link href="/Softskilldetails">{item.courseTitle}</Link>
                     </h5>
