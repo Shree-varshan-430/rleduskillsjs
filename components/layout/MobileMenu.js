@@ -70,13 +70,21 @@ export default function MobileMenu() {
                     </ul> */}
                     <div className={isActive.key == 5 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(5)}><span className="plus-line" /></div>
                 </li>
-                 <li><Link href="https://forms.gle/4VMEf7pZouamfyp1A" className="btn">Book Your free Workshop</Link>
+                <li ><Link href="/MasterTrainerprogram">Master Trainer program</Link>
                     {/* <ul className="sub-menu" style={{ display: `${isActive.key == 5 ? "block" : "none"}` }}>
                         <li><Link href="/blog-grid">Blog Grid</Link></li>
                         <li><Link href="/blog">Blog Standard</Link></li>
                         <li><Link href="/blog-details">Blog Details</Link></li>
                     </ul> */}
                     <div className={isActive.key == 6 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(6)}><span className="plus-line" /></div>
+                </li>
+                 <li><Link href="https://forms.gle/4VMEf7pZouamfyp1A" className="btn">Book Your free Workshop</Link>
+                    {/* <ul className="sub-menu" style={{ display: `${isActive.key == 5 ? "block" : "none"}` }}>
+                        <li><Link href="/blog-grid">Blog Grid</Link></li>
+                        <li><Link href="/blog">Blog Standard</Link></li>
+                        <li><Link href="/blog-details">Blog Details</Link></li>
+                    </ul> */}
+                    <div className={isActive.key == 7 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(7)}><span className="plus-line" /></div>
                 </li>
             </ul>
         </>
