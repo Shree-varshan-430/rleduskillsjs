@@ -147,7 +147,7 @@ export default function CounseDetails() {
 
                                             <div className="event-cost-wrap">
 
-                                                <Link href="/public/assets/Brochures/RLBrochure.pdf" className="btn">Download</Link>
+                                                <Link href="/assets/Brochures/RLBrochure.pdf" target="_blank" rel="noopener noreferrer" className="btn">Download</Link>
                                                 <div className="event-information-wrap">
 
 
