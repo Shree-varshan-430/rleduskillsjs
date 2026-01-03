@@ -525,7 +525,7 @@ export default function CounseDetails() {
                                                 </Link>
                                             </div>
                                             <div className="rc-post-content">
-                                                <h4 className="title"><Link href="/internshipdetails">Internship opportunities</Link></h4>
+                                                <h4 className="title"><Link href="/Internship-details">Internship opportunities</Link></h4>
                                                 {/* <span className="price"><del>$29.00</del> $18.00</span> */}
                                             </div>
                                         </div>
