@@ -12,7 +12,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu }) {
                             <div className="col-md-6">
                                 <ul className="tg-header__top-info list-wrap">
                                     <li><i className="flaticon-pin" /> <span>Vijayawada, Aruppukottai</span></li>
-                                    <li><i className="flaticon-email" /> <Link href="mailto:info@rleduskills.com">info@rleduskills.com</Link></li>
+                                    <li><i className="flaticon-email" /> <Link href="mailto:hr@rleduskills.com">hr@rleduskills.com</Link></li>
                                 </ul>
                             </div>
                             <div className="col-md-6">
